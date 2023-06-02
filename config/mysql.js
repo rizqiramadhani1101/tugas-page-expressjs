@@ -1,10 +1,10 @@
-const mysql = require('mysql');
+// const mysql = require('mysql');
 
-const connection = mysql.createConnection({
-    host :'localhost',
-    user: 'root',
-    password: '1234',
-    database:'eduwork-cruds'
-});
+// const connection = mysql.createConnection({
+//     host :'localhost',
+//     user: 'root',
+//     password: '1234',
+//     database:'eduwork-cruds'
+// });
 
-module.exports = connection;
+// module.exports = connection;

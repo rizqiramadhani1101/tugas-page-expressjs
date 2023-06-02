@@ -68,17 +68,6 @@ connection.query({sql,values}, _response(res));
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 const _response = (res) => {
     return (error,result) => {
         if(error){
